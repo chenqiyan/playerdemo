@@ -16,7 +16,7 @@
 3. 编译运行。  
 
 
-
+![这是图片](/player.png "Magic Gardens")
 
 
 # 原GitHub作者
